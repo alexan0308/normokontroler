@@ -8,7 +8,7 @@ body {
 	padding: 0px;
 	color: #c8c8c8;
 	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	line-height: 1.5em; 
 	background-color: #0f0d0c;
 	background-image: url(../images/templatemo_body.jpg);
@@ -138,7 +138,7 @@ em { color: #fff; }
 	border: 0;
 }
 
-.col_370 { width: 360px; }
+.col_370 { width: 610px; }
 .col_220 { width: 230px; } 
 
 .service_list { 

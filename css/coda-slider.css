@@ -16,8 +16,8 @@
 	background: url(../images/templatemo_header.jpg) no-repeat center top
 }
 
-#header h1 { display: block; width: 228px; margin: 0 auto; padding: 0 }
-#header h1 a { float: left; margin-top: 25px; width: 245px; height: 42px; background: url(../images/templatemo_logo.png); text-indent: -10000px; }
+#header h1 { display: block; width: 602px; margin: 0 auto; padding: 0 }
+#header h1 a { float: left; margin-top: 25px; width: 570px; height: 42px; background: url(../images/templatemo_logo.png) no-repeat center; text-indent: -10000px; }
 
 #templatemo_main {
 	width: 800px;
